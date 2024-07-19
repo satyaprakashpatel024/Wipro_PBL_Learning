@@ -1,4 +1,4 @@
-public class Question1{
+public class GenerateSeries{
     public static int generateSeries(int a,int b, int c,int n){
         int []arr = new int[2];
         arr[0] = b-a;
